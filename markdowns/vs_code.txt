@@ -1,0 +1,96 @@
+VS Code extensions:
+Python
+- Kite AutoComplete
+- python
+- pyton preview, debug without running the code (static eval)
+- arepl for python (evaluate code during typing)
+- ? python extection pack
+- python docstring generetor
+- github copilot, generuje kod
+- python indent
+
+JS
+- prettier
+- bracket pair colorizer
+
+c#
+- c#
+- C# Extensions
+- C# XML Documentation Comments
+- Auto-Using for C#
+
+html css js:
+- html tag wrap
+- live server
+- SVG Viewer
+- css peek
+- html css support
+- es6 snnippets
+- debugger for chrome
+
+visual extensions:
+- prettier, auto code formatting, ctrl+shift+p
+- bracket colorizer 2
+- bookmarks ctr+alt+l/j jump between bookmarks
+- guides
+- Material Icon Theme, icons
+- vscode-icons, icons
+- indent-rainbow
+
+Handy Extensions
+- code spell checker , crl+.
+
+General:
+
+- Project Manager
+- settings sync, shift+ alt+ u upload, shift + alt + d to download
+- live share
+- Live Share Extension Pack
+- Visual Studio IntelliCode
+- Code Runner, snippet code
+
+Markdown:
+- Markdown All in One
+- Markdown PDF
+- markdownlint
+
+Git Extensions
+- git history
+- git lens
+- Git Graph
+- gitignore
+
+XML:
+- XML Tools
+- auto rename tag
+- Auto Close Tag
+
+
+- powershell
+- mssql
+- SQLTools
+- Remote Development
+- shell-format
+- Code Time
+- rest-clien, similiar to postman
+
+
+- icons
+- better comments
+- path inteligence
+- profile switcher
+
+- dotenv .env
+- quokka.js, adding info during programming in js
+- emmet
+
+Shortcuts:
+- crl+d - select multiple variables and change words in same moment
+- ctr+L - selects whole line
+- ctr+ -> - move word by word
+- ctr + shift+ -> - move word by word
+- ctr+ p - file switcher
+- ctr+ p +p - file switcher
+- crt + arrow down/up transporter
+- crt + shift + arrow down/up transporter
+- alt+w, chang line in paragraph in html

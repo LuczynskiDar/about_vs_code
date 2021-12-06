@@ -1,0 +1,11 @@
+﻿<!-- <svg xmlns="http://www.w3.org/2000/svg" -->
+<svg viewBox="0 -10 1300 30" xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <text x="22" y="10" style="font-family: Arial;
+                 font-size  : 16;
+                 stroke     : none;
+                 fill       : #7E7E7E;
+                 font-style:italic"
+>About VS Code | Nov'21 | Darek Łuczyński</text>
+</svg>
